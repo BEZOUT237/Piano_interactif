@@ -23,3 +23,4 @@ Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, 
 
 Acknowledgments
 Merci à tous ceux qui ont contribué à ce projet et à la communauté open source pour ses ressources et son soutien.
+![image](https://github.com/user-attachments/assets/8e9439b8-357c-4a3d-a7fa-17f11e1b28e2)
