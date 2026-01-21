@@ -1,6 +1,6 @@
 # Piano_interactif
 
-Ce projet est un Piano Interactif développé en HTML, CSS et JavaScript. Il permet aux utilisateurs de jouer des notes de piano en utilisant leur clavier d'ordinateur ou en cliquant sur les touches affichées à l'écran. Chaque touche joue un son spécifique et affiche la note en cours de jeu, offrant ainsi une expérience musicale immersive.
+Ce projet est un Piano Interactif que j'ai développé en HTML, CSS et JavaScript (uniquement). Il permet aux utilisateurs de jouer des notes de piano en utilisant leur clavier d'ordinateur ou en cliquant sur les touches affichées à l'écran. Chaque touche joue un son spécifique et affiche la note en cours de jeu, offrant ainsi une expérience musicale immersive.
 
 Fonctionnalités
 Interaction par clavier : Appuyez sur les touches du clavier pour jouer des notes.
@@ -19,8 +19,6 @@ Copier
 git clone 
 Ouvrez le fichier index.html dans votre navigateur.
 Contribuer
-Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, n'hésitez pas à créer une nouvelle branche ou à soumettre une demande de tirage.
+Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, n'hésitez pas à créer une nouvelle branche, le deployer sur d'autres plateformes ou à soumettre une demande.
 
-Acknowledgments
-Merci à tous ceux qui ont contribué à ce projet et à la communauté open source pour ses ressources et son soutien.
 ![image](https://github.com/user-attachments/assets/8e9439b8-357c-4a3d-a7fa-17f11e1b28e2)
